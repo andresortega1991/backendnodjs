@@ -16,7 +16,7 @@
     "fs": "0.0.1-security",
     "mongoose": "^5.6.2",
     "path": "^0.12.7",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
